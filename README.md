@@ -9,4 +9,4 @@
 - [p0insettia plus](https://github.com/LukeZGD/p0insettia-plus) - Updated fork of p0insettia, a jailbreak for iPhone 5 iOS 10
 - [daibutsu migrator](https://github.com/LukeZGD/daibutsu-migrator) - Tweak to install daibutsu untether for 32-bit iOS 8
 - [JailbreakMe 4.0](https://github.com/LukeZGD/jbme4) rehost - Web-based jailbreak for 32-bit iOS 9.1-9.3.4, now with an untethered variant
-- [checkm8-a5](https://github.com/LukeZGD/checkm8-a5) fork - A more "stable" version of checkm8-a5 for Arduino
+- [primepwn](https://github.com/LukeZGD/primepwn) - Implementation of steaks4uce and SHAtter exploits from ipwndfu in C, and send iBSS for pwned A5/A6 devices
