@@ -2,7 +2,7 @@
 
 ### Some iOS Projects:
 - [**Legacy iOS Kit**](https://github.com/LukeZGD/Legacy-iOS-Kit) - All-in-one tool for legacy iOS devices
-- [**EverPwnage**](https://github.com/LukeZGD/EverPwnage) - Jailbreak for 32-bit iOS 8.0-9.3.6
+- [**EverPwnage**](https://github.com/LukeZGD/EverPwnage) - Jailbreak for 32-bit iOS 7.0-9.3.6
     - [EverUntether](https://github.com/LukeZGD/daibutsu) - Fork of daibutsu untether, used for untethering iOS 8.0-9.3.4
     - [EverUntether Migrator](https://github.com/LukeZGD/everuntether-migrator) - Tweak to install EverUntether for 32-bit iOS 8
 - [g1lbertJB](https://github.com/g1lbertJB/g1lbertJB) - Jailbreak for iOS 5.0-6.1.2
