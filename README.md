@@ -11,5 +11,5 @@
 - [MeridianFix](https://github.com/LukeZGD/MeridianFix) - Updated fork of Meridian, a jailbreak for 64-bit iOS 10
 - [p0insettia plus](https://github.com/LukeZGD/p0insettia-plus) - Updated fork of p0insettia, a jailbreak for iPhone 5 iOS 10.3.4
 - [JailbreakMe 4.0](https://github.com/LukeZGD/jbme4) rehost - Web-based jailbreak for 32-bit iOS 9.1-9.3.4, with an untethered variant
-- [primepwn](https://github.com/LukeZGD/primepwn) - Implementation of steaks4uce and SHAtter exploits from ipwndfu in C, and send iBSS for pwned A5/A6 devices
+- [primepwn](https://github.com/LukeZGD/primepwn) - Implementation of steaks4uce, limera1n, and SHAtter exploits from ipwndfu in C, and send iBSS for pwned A5/A6 devices
 - [Cydia Webview Modifier](https://github.com/LukeZGD/CydiaWebviewModifier) - Tweak to modify URL loaded in Cydia webviews
